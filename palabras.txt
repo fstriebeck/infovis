@@ -1,0 +1,10 @@
+Parallel Coordinates
+Flow Maps
+Node-Link Diagrams
+Adjacency diagrams 
+Icicle
+sunburst
+Enclosure diagrams
+circle-packing layouts
+arc diagram
+seriation
